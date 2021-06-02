@@ -37,7 +37,7 @@ Rx==1.6.1
 singledispatch==3.4.0.3
 six==1.14.0
 SQLAlchemy==1.3.12
-urllib3==1.22
+urllib3==1.26.5
 wadllib==1.3.2
 Werkzeug==0.16.0
 zipp==3.1.0
